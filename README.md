@@ -18,24 +18,13 @@
 - ### 필요성
   - 전 세계적으로 농업과 첨단 기술이 결합하여 기후 변화와 농업 인력의 고령화와 인건비 상승등 다양한 문제들을 해결하고자 노력하고 있다. 로봇 기술과 인공지능 기술에 기반한 여러 제품들이 등장하고 있다.
   - 대형 농기계는 토양을 황폐화 시키고 온실 가스 배출도 많고 가격도 비싸서 농민들의 부담을 가중시킨다. 따라서 이를 극복하기 위하여 소형 이동로봇 플래폼을 활용한 농기계들이 속속 개발되고 있다. 
-- ### 기존 해결책의 문제점
-  - OOO
-  - OOO
   
 ## System Design
   - ### System Requirements
     - OOO
     - OOO
-    
-## Case Study
-  - ### Description
-  
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
-  
-## Project Outcome
 - ### 험지 구동 이동 로봇 설계 및 제작
 #### 로봇 다리 설계 및 DH 파라미터
 ![image](https://user-images.githubusercontent.com/120447438/208066822-080c9c7e-d784-42dd-93df-47589747fc7e.png)
