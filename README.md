@@ -34,7 +34,7 @@
     - 험지 구동 자율 주행 이동 로봇 실험
   
 ## Conclusion
-- ### 1. 험지 구동 이동 로봇 설계 및 제작
+- ### 험지 구동 이동 로봇 설계 및 제작
    - #### 로봇 다리 설계 및 DH 파라미터 
      ![image](https://user-images.githubusercontent.com/120447438/208066822-080c9c7e-d784-42dd-93df-47589747fc7e.png)
   - #### 험지구동 이동 로봇 시작품 
@@ -43,17 +43,6 @@
      ![image](https://user-images.githubusercontent.com/120447438/208067119-ded7b8e9-aa90-45ea-bbd2-ec1827f1e748.png)
    - #### 험지 이동 로봇의 보행 안정성 
      ![image](https://user-images.githubusercontent.com/120447438/208067351-109c2f16-f298-48dc-9d72-b2002507ada6.png)
-
-
-- ### 2. 강화 학습을 통한 자율 주행 알고리즘을 구현
-   - #### 강화학습 구조 
-     ![image](https://user-images.githubusercontent.com/120447438/208067439-44fa9746-4309-44c4-8690-87e2083e13ef.png)
-   - #### Rasim 적용 
-     ![image](https://user-images.githubusercontent.com/120447438/208067476-07c90a4a-c2cb-44e5-b3b4-a179e2845796.png)
-   - #### 강화 학습 결과 
-     ![image](https://user-images.githubusercontent.com/120447438/208067499-72becf5e-5b81-4884-9622-ab384fc3b53f.png)
-
-
 
 
 
